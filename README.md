@@ -12,5 +12,7 @@ If you want to add more sentences, simply add more to the sentences.txt file or 
 - python==3.9.0
 
 # Screenshot
+In this sample run, I was off by one letter; h in sandwiches.
+
 ![Alt text](https://github.com/MalikCoderGreen/Speed-Typer-App/blob/main/speedTyper.png?raw=true "Speed typer app screenshot")
 
