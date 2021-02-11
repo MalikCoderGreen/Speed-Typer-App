@@ -3,6 +3,9 @@ This app generates a random sentence from a dictionary and times the user's atte
 
 If you want to add more sentences, simply add more to the sentences.txt file or change the current sentences in them. 
 
+# 100% accuracy conditions
+- Must type all the same letters shown in sentence. 
+- Must type all the same grammar symbols used in the sentence i.e. "' , - ; :". 
 
 # Modules
 - PyQt5
