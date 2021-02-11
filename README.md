@@ -10,5 +10,5 @@ This app generates a random sentence from a dictionary and times the user's atte
 - python==3.9.0
 
 # Screenshot
-![Alt text]()
+![Alt text](https://github.com/MalikCoderGreen/Speed-Typer-App/blob/main/speedTyper.png?raw=true)
 
