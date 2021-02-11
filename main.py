@@ -131,6 +131,7 @@ class MainWindow(QMainWindow):
 
         self.sentLabel.setText(self.sentence)
 
+        self.usrAttempt.setText("")
         
     
     def getAccuracy(self):
@@ -154,7 +155,6 @@ class MainWindow(QMainWindow):
         
         # Reset time for label and reset value for user-attempt line edit.
         self.curr_time.setHMS(00, 00, 00)
-        self.usrAttempt.setText("")
       
 
     def fireTimer(self):
